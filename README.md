@@ -3,6 +3,6 @@
 
 <table>
     <tr>
-        <td><img src="images/hakordia-pc.png" /></td>
+        <td><img src="images/hakordia-pc.PNG" /></td>
     </tr>
 </table>
